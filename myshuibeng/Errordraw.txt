@@ -1,0 +1,16 @@
+10 10 17:15
+ 	CBrushPen::Shutdown() 
+10 10 18:39
+ 	CBrushPen::Shutdown() 
+10 10 20:09
+ 	CBrushPen::Shutdown() 
+10 10 21:15
+ 	CBrushPen::Shutdown() 
+10 10 23:48
+ 	CBrushPen::Shutdown() 
+10 10 23:50
+ 	CBrushPen::Shutdown() 
+10 11 00:16
+ 	CBrushPen::Shutdown() 
+10 11 00:16
+ 	CBrushPen::Shutdown() 
