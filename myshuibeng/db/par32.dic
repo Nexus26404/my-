@@ -1,0 +1,34 @@
+5
+1
+31
+0;	NAME;	4;	0
+1;	KIND;	1;	0
+2;	DESC;	4;	0
+4;	UNIT;	1;	0
+13;	PV;	2;	8
+20;	LASTPV;	2;	0
+10;	EU;	4;	0
+11;	EUHI;	2;	0
+12;	EULO;	2;	0
+35;	SEN;	2;	0
+15;	SP;	2;	0
+32;	STATIS;	1;	0
+41;	FORMAT;	1;	0
+61;	LLPR;	1;	0
+52;	LL;	2;	0
+62;	LOPR;	1;	0
+53;	LO;	2;	0
+63;	HIPR;	1;	0
+54;	HI;	2;	0
+64;	HHPR;	1;	0
+55;	HH;	2;	0
+66;	DEVPR;	1;	0
+57;	DEV;	2;	0
+65;	RATEPR;	1;	0
+56;	RATE;	2;	0
+70;	RATECYC;	1;	0
+51;	ALMENAB;	1;	0
+72;	DEADBAND;	2;	0
+71;	ALARMDELAY;	1;	0
+42;	EXPRESS;	4;	0
+7;	SECU;	4;	0

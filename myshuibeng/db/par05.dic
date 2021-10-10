@@ -1,0 +1,15 @@
+5
+1
+12
+0;	NAME;	4;	0
+1;	KIND;	1;	0
+2;	DESC;	4;	0
+4;	UNIT;	2;	0
+11;	EUHI;	2;	0
+12;	EULO;	2;	0
+13;	PV;	2;	4
+20;	LASTPV;	2;	0
+100;	PVIN;	2;	2
+101;	PVOUT;	2;	2
+41;	FORMAT;	2;	0
+7;	SECU;	4;	0

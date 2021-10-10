@@ -1,0 +1,18 @@
+5
+1
+15
+0;	NAME;	4;	24
+4;	UNIT;	1;	24
+2;	DESC;	4;	16
+1;	KIND;	1;	24
+10;	EU;	4;	24
+13;	PV;	2;	12
+20;	LASTPV;	2;	24
+31;	SQRTFL;	1;	24
+32;	STATIS;	1;	24
+33;	LINEFL;	1;	24
+34;	LINETBL;	4;	24
+41;	FORMAT;	1;	24
+7;	SECU;	4;	24
+100;	RowPar;	2;	24
+101;	ColPar;	2;	24

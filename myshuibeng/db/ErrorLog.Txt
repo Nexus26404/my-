@@ -1,0 +1,6 @@
+10 10 17:16:16 StopRun reason Close
+10 10 19:28:46 StopRun reason Autho
+10 10 20:07:24 StopRun reason Close
+10 10 21:15:43 StopRun reason Close
+10 10 23:48:56 StopRun reason Close
+10 11 00:16:05 StopRun reason Close

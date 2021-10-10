@@ -1,0 +1,18 @@
+1
+16
+0;	模拟I/O点;	AI;	TypeAio.dll;	;	0
+1;	数字I/O点;	DI;	TypeDio.dll;	;	0
+2;	累计点;	Total;	TypeAio.dll;	;	0
+3;	控制点;	PID;	TypeAio.dll;	BkPID.dll;	0
+4;	运算点;	Cal;	TypeDio.dll;	;	0
+5;	组合点;	COB;	TypeDio.dll;	;	0
+32;	自由运算点;	TagCalc;	TypeCalc.Dll;	BkCalc.Dll;	0
+33;	事故追忆;	TagTrace;	TypeTrac.DLL;	BkTrace.DLL;	8
+35;	用户程序;	程序;	TypProg.Dll;	BkProg.Dll;	24
+36;	设备运行点;	DevRun;	TypeDevRun.dll;	BkDevRun.dll;	8
+38;	短信报警点;	NoteAlarm;	TypeNoteAlarm;	BkNoteAlarm;	16
+50;	趋势分析标签点;	CurveRemark;	TypeCurveRemark.dll;	BkCurveRemark.dll;	24
+51;	报表关系数据源点;	ReportDbSrc;	TypeReportOleDb.dll;	BkReportOleDb.dll;	24
+60;	滤波点;	FilterTag;	TypeFilter.dll;	BkFilter.dll;	0
+71;	温控曲线点;	TemCtrlCurve;	TypeTemCtrlCurve.dll;	BkTemCtrlCurve.dll;	0
+75;	脉冲点;	PULSE;	TypePulse.dll;	BkPulse.dll;	0

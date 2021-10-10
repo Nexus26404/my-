@@ -1,0 +1,27 @@
+5
+1
+23
+0;	NAME;	4;	0
+1;	KIND;	1;	0
+2;	DESC;	4;	0
+4;	UNIT;	1;	24
+101;	Year;	1;	0
+102;	Month;	1;	0
+103;	Day;	1;	0
+104;	Hour;	1;	0
+105;	Minute;	1;	0
+106;	Second;	1;	0
+107;	Millisec;	1;	0
+108;	Week;	1;	0
+109;	LongTime;	1;	0
+110;	StrDate;	4;	0
+111;	StrTime;	4;	0
+112;	DateTime;	4;	0
+113;	SlaveStat;	1;	0
+114;	USERCOUNT;	1;	0
+115;	TAGCOUNT;	1;	0
+116;	STARTTIME;	1;	0
+117;	AlmCount;	1;	0
+118;	RUNSTAT;	1;	0
+119;	HisEnable;	1;	0
+//120;	PRINTSTOP;	1;	0

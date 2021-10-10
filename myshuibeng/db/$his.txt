@@ -1,0 +1,3 @@
+30
+1
+$SYSTEM.RUNSTAT;	0;	0.5
